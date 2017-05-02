@@ -1,6 +1,8 @@
 # Interactive3DModel
 Shown is a cube with a pyramid directly on top. 
-Cube can be rotated with keyboard commands.
+Indexed drawing is utlilized.
+
+Cube can be rotated with the following keyboard commands.
 
 y/Y - rotates around y-axis. 
 
